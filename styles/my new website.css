@@ -1,0 +1,91 @@
+*{
+    /*margin: 0px;*/
+}
+.Welcome{
+    *{
+        margin: 0%;
+    }
+    h1{
+        font-size: 100px;
+        color: chocolate;
+        text-align: center;
+    }
+    p{
+font-size: 30px;
+padding-left: 100px;
+color: lime;
+    }
+    border: 20px solid tomato;
+    background-color:darkolivegreen;
+    height: 300px;
+}
+
+p{
+    /*background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;*/
+    
+}
+.our{
+    text-align:right;
+    border-bottom: 8px solid goldenrod;
+    border-radius: 5px;
+    background-color: darkcyan;
+    font-size: 25px;
+}
+body{
+    background-color: rgb(124, 252, 156);
+}
+ol{
+    color:darkred;
+    font-size: 30px;
+}
+ul{
+    color: darkslategrey;
+    font-size: 20px;
+    bar
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid red;
+    width: 50%;
+    height: 300px;
+}
+.immerse{
+    font-size: 28px;
+    background-color: chocolate;
+    text-align: center;
+}
+
+.Whether{
+    font-size: 25px;
+    color: brown;
+    border: 10px solid lightslategrey;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 30px 40px 50px red;
+}
+.bolt{
+    
+}
+button{
+    /*color: rgb(225, 57, 57);
+    background-color: rgb(168, 157, 249);
+    border: 2px solid rgb(223, 241, 18);*/
+}
+
+h3{
+    display: hidden;
+    text-align: center;
+}
+input{
+    
+}
+.user{
+    font-size: 25px;
+    color: indigo;
+}
