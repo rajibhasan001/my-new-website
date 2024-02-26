@@ -89,3 +89,11 @@ input{
     font-size: 25px;
     color: indigo;
 }
+
+.not{
+    color: dimgray;
+    text-align: right;
+    box-sizing: border-box;
+    border: 8px solid green;
+
+}
